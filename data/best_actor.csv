@@ -1,0 +1,483 @@
+,Year,Actor_Name,Film_Title,Winner
+0,1928,Emil Jannings ,The Last Command,Yes
+1,1928,Emil Jannings ,The Way of All Flesh,Yes
+2,1928,Richard Barthelmess,The Noose,No
+3,1928,Richard Barthelmess,The Patent Leather Kid,No
+4,1928,Charlie Chaplin,The Circus,No
+5,1929,Warner Baxter ,In Old Arizona,Yes
+6,1929,George Bancroft,Thunderbolt,No
+7,1929,Chester Morris,Alibi,No
+8,1929,Paul Muni,The Valiant,No
+9,1929,Lewis Stone,The Patriot,No
+10,1930,George Arliss ,Disraeli,Yes
+11,1930,George Arliss,The Green Goddess,No
+12,1930,Wallace Beery,The Big House,No
+13,1930,Maurice Chevalier ,The Big Pond,No
+14,1930,Maurice Chevalier ,The Love Parade,No
+15,1930,Ronald Colman ,Bulldog Drummond,No
+16,1930,Ronald Colman ,Condemned,No
+17,1930,Lawrence Tibbett,The Rogue Song,No
+18,1931,Lionel Barrymore ,A Free Soul,Yes
+19,1931,Jackie Cooper,Skippy,No
+20,1931,Richard Dix,Cimarron,No
+21,1931,Fredric March,The Royal Family of Broadway,No
+22,1931,Adolphe Menjou,The Front Page,No
+23,1932,Wallace Beery ‡ ,The Champ,Yes
+24,1932,Fredric March ‡ ,Dr. Jekyll and Mr. Hyde,Yes
+25,1932,Alfred Lunt,The Guardsman,No
+26,1933,Charles Laughton ,The Private Life of Henry VIII,Yes
+27,1933,Leslie Howard,Berkeley Square,No
+28,1933,Paul Muni,I Am a Fugitive from a Chain Gang,No
+29,1934,Clark Gable ,It Happened One Night,Yes
+30,1934,Frank Morgan,The Affairs of Cellini,No
+31,1934,William Powell,The Thin Man,No
+32,1935,Victor McLaglen ,The Informer,Yes
+33,1935,Clark Gable,Mutiny on the Bounty,No
+34,1935,Clark Gable,Captain William Bligh,No
+35,1935,Paul Muni ,Black Fury,No
+36,1935,Franchot Tone,Mutiny on the Bounty,No
+37,1936,Paul Muni ,The Story of Louis Pasteur,Yes
+38,1936,Gary Cooper,Mr. Deeds Goes to Town,No
+39,1936,Walter Huston,Dodsworth,No
+40,1936,William Powell,My Man Godfrey,No
+41,1936,Spencer Tracy,San Francisco,No
+42,1937,Spencer Tracy ,Captains Courageous,Yes
+43,1937,Charles Boyer,Conquest,No
+44,1937,Fredric March,A Star Is Born,No
+45,1937,Robert Montgomery,Night Must Fall,No
+46,1937,Paul Muni,The Life of Emile Zola,No
+47,1938,Spencer Tracy ,Boys Town,Yes
+48,1938,Charles Boyer,Algiers,No
+49,1938,James Cagney,Angels with Dirty Faces,No
+50,1938,Robert Donat,The Citadel,No
+51,1938,Leslie Howard,Pygmalion,No
+52,1939,Robert Donat ,"Goodbye, Mr. Chips",Yes
+53,1939,Clark Gable,Gone with the Wind,No
+54,1939,Laurence Olivier,Wuthering Heights,No
+55,1939,Mickey Rooney,Babes in Arms,No
+56,1939,James Stewart,Mr. Smith Goes to Washington,No
+57,1940,James Stewart ,The Philadelphia Story,Yes
+58,1940,Charlie Chaplin,The Great Dictator,No
+59,1940,Henry Fonda,The Grapes of Wrath,No
+60,1940,Raymond Massey,Abe Lincoln in Illinois,No
+61,1940,Laurence Olivier,Rebecca,No
+62,1941,Gary Cooper ,Sergeant York,Yes
+63,1941,Cary Grant,Penny Serenade,No
+64,1941,Walter Huston,The Devil and Daniel Webster,No
+65,1941,Robert Montgomery,Here Comes Mr. Jordan,No
+66,1941,Orson Welles,Citizen Kane,No
+67,1942,James Cagney ,Yankee Doodle Dandy,Yes
+68,1942,Ronald Colman,Random Harvest,No
+69,1942,Gary Cooper,The Pride of the Yankees,No
+70,1942,Walter Pidgeon,Mrs. Miniver,No
+71,1942,Monty Woolley,The Pied Piper,No
+72,1943,Paul Lukas ,Watch on the Rhine,Yes
+73,1943,Humphrey Bogart,Casablanca,No
+74,1943,Gary Cooper,For Whom the Bell Tolls,No
+75,1943,Walter Pidgeon,Madame Curie,No
+76,1943,Mickey Rooney,The Human Comedy,No
+77,1944,Bing Crosby ,Going My Way,Yes
+78,1944,Charles Boyer,Gaslight,No
+79,1944,Barry Fitzgerald ,Going My Way,No
+80,1944,Cary Grant,None but the Lonely Heart,No
+81,1944,Alexander Knox,Wilson,No
+82,1945,Ray Milland ,The Lost Weekend,Yes
+83,1945,Bing Crosby,The Bells of St. Mary's,No
+84,1945,Gene Kelly,Anchors Aweigh,No
+85,1945,Gregory Peck,The Keys of the Kingdom,No
+86,1945,Cornel Wilde,A Song to Remember,No
+87,1946,Fredric March ,The Best Years of Our Lives,Yes
+88,1946,Laurence Olivier,Henry V,No
+89,1946,Larry Parks,The Jolson Story,No
+90,1946,Gregory Peck,The Yearling,No
+91,1946,James Stewart,It's a Wonderful Life,No
+92,1947,Ronald Colman ,A Double Life,Yes
+93,1947,John Garfield,Body and Soul,No
+94,1947,Gregory Peck,Gentleman's Agreement,No
+95,1947,William Powell,Life with Father,No
+96,1947,Michael Redgrave,Mourning Becomes Electra,No
+97,1948,Laurence Olivier ,Hamlet,Yes
+98,1948,Lew Ayres,Johnny Belinda,No
+99,1948,Montgomery Clift,The Search,No
+100,1948,Dan Dailey,When My Baby Smiles at Me,No
+101,1948,Clifton Webb,Sitting Pretty,No
+102,1949,Broderick Crawford ,All the King's Men,Yes
+103,1949,Kirk Douglas,Champion,No
+104,1949,Gregory Peck,Twelve O'Clock High,No
+105,1949,Richard Todd,The Hasty Heart,No
+106,1949,John Wayne,Sands of Iwo Jima,No
+107,1950,José Ferrer ,Cyrano de Bergerac,Yes
+108,1950,Louis Calhern,The Magnificent Yankee,No
+109,1950,William Holden,Sunset Boulevard,No
+110,1950,James Stewart,Harvey,No
+111,1950,Spencer Tracy,Father of the Bride,No
+112,1951,Humphrey Bogart ,The African Queen,Yes
+113,1951,Marlon Brando,A Streetcar Named Desire,No
+114,1951,Montgomery Clift,A Place in the Sun,No
+115,1951,Arthur Kennedy,Bright Victory,No
+116,1951,Fredric March,Death of a Salesman,No
+117,1952,Gary Cooper ,High Noon,Yes
+118,1952,Marlon Brando,Viva Zapata!,No
+119,1952,Kirk Douglas,The Bad and the Beautiful,No
+120,1952,José Ferrer,Moulin Rouge,No
+121,1952,Alec Guinness,The Lavender Hill Mob,No
+122,1953,William Holden ,Stalag 17,Yes
+123,1953,Marlon Brando,Julius Caesar,No
+124,1953,Richard Burton,The Robe,No
+125,1953,Montgomery Clift,From Here to Eternity,No
+126,1953,Montgomery Clift,1st Sgt. Milton Warden,No
+127,1954,Marlon Brando ,On the Waterfront,Yes
+128,1954,Humphrey Bogart,The Caine Mutiny,No
+129,1954,Bing Crosby,The Country Girl,No
+130,1954,James Mason,A Star Is Born,No
+131,1954,Dan O'Herlihy,Robinson Crusoe,No
+132,1955,Ernest Borgnine ,Marty,Yes
+133,1955,James Cagney,Love Me or Leave Me,No
+134,1955,James Dean ,East of Eden,No
+135,1955,Frank Sinatra,The Man with the Golden Arm,No
+136,1955,Spencer Tracy,Bad Day at Black Rock,No
+137,1956,Yul Brynner ,The King and I,Yes
+138,1956,James Dean ,Giant,No
+139,1956,Kirk Douglas,Lust for Life,No
+140,1956,Rock Hudson,Giant,No
+141,1956,Laurence Olivier,Richard III,No
+142,1957,Alec Guinness ,The Bridge on the River Kwai,Yes
+143,1957,Marlon Brando,Sayonara,No
+144,1957,Anthony Franciosa,A Hatful of Rain,No
+145,1957,Charles Laughton,Witness for the Prosecution,No
+146,1957,Anthony Quinn,Wild Is the Wind,No
+147,1958,David Niven ,Separate Tables,Yes
+148,1958,Tony Curtis,The Defiant Ones,No
+149,1958,Paul Newman,Cat on a Hot Tin Roof,No
+150,1958,Sidney Poitier,The Defiant Ones,No
+151,1958,Spencer Tracy,The Old Man and the Sea,No
+152,1959,Charlton Heston ,Ben-Hur,Yes
+153,1959,Laurence Harvey,Room at the Top,No
+154,1959,Jack Lemmon,Some Like It Hot,No
+155,1959,Paul Muni,The Last Angry Man,No
+156,1959,James Stewart,Anatomy of a Murder,No
+157,1960,Burt Lancaster ,Elmer Gantry,Yes
+158,1960,Trevor Howard,Sons and Lovers,No
+159,1960,Jack Lemmon,The Apartment,No
+160,1960,Laurence Olivier,The Entertainer,No
+161,1960,Spencer Tracy,Inherit the Wind,No
+162,1961,Maximilian Schell ,Judgment at Nuremberg,Yes
+163,1961,Charles Boyer,Fanny,No
+164,1961,Paul Newman,The Hustler,No
+165,1961,Spencer Tracy,Judgment at Nuremberg,No
+166,1961,Stuart Whitman,The Mark,No
+167,1962,Gregory Peck ,To Kill a Mockingbird,Yes
+168,1962,Burt Lancaster,Birdman of Alcatraz,No
+169,1962,Jack Lemmon,Days of Wine and Roses,No
+170,1962,Marcello Mastroianni,Divorce Italian Style,No
+171,1962,Peter O'Toole,Lawrence of Arabia,No
+172,1963,Sidney Poitier ,Lilies of the Field,Yes
+173,1963,Albert Finney,Tom Jones,No
+174,1963,Richard Harris,This Sporting Life,No
+175,1963,Rex Harrison,Cleopatra,No
+176,1963,Paul Newman,Hud,No
+177,1964,Rex Harrison ,My Fair Lady,Yes
+178,1964,Richard Burton,Becket,No
+179,1964,Richard Burton,King Henry II,No
+180,1964,Anthony Quinn,Zorba the Greek,No
+181,1964,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,No
+182,1965,Lee Marvin ,Cat Ballou,Yes
+183,1965,Richard Burton,The Spy Who Came in from the Cold,No
+184,1965,Laurence Olivier,Othello,No
+185,1965,Rod Steiger,The Pawnbroker,No
+186,1965,Oskar Werner,Ship of Fools,No
+187,1966,Paul Scofield ,A Man for All Seasons,Yes
+188,1966,Alan Arkin,"The Russians Are Coming, the Russians Are Coming",No
+189,1966,Richard Burton,Who's Afraid of Virginia Woolf?,No
+190,1966,Michael Caine,Alfie,No
+191,1966,Steve McQueen,The Sand Pebbles,No
+192,1967,Rod Steiger ,In the Heat of the Night,Yes
+193,1967,Warren Beatty,Bonnie and Clyde,No
+194,1967,Dustin Hoffman,The Graduate,No
+195,1967,Paul Newman,Cool Hand Luke,No
+196,1967,Spencer Tracy ,Guess Who's Coming to Dinner,No
+197,1968,Cliff Robertson ,Charly,Yes
+198,1968,Alan Arkin,The Heart Is a Lonely Hunter,No
+199,1968,Alan Bates,The Fixer,No
+200,1968,Ron Moody,Oliver!,No
+201,1968,Peter O'Toole,The Lion in Winter,No
+202,1969,John Wayne ,True Grit,Yes
+203,1969,Richard Burton,Anne of the Thousand Days,No
+204,1969,Dustin Hoffman,Midnight Cowboy,No
+205,1969,Peter O'Toole,"Goodbye, Mr. Chips",No
+206,1969,Jon Voight,Midnight Cowboy,No
+207,1970,George C. Scott ,Patton,Yes
+208,1970,Melvyn Douglas,I Never Sang for My Father,No
+209,1970,James Earl Jones,The Great White Hope,No
+210,1970,Jack Nicholson,Five Easy Pieces,No
+211,1970,Ryan O'Neal,Love Story,No
+212,1971,Gene Hackman ,The French Connection,Yes
+213,1971,Peter Finch,Sunday Bloody Sunday,No
+214,1971,Walter Matthau,Kotch,No
+215,1971,George C. Scott,The Hospital,No
+216,1971,Topol,Fiddler on the Roof,No
+217,1972,Marlon Brando ,The Godfather,Yes
+218,1972,Michael Caine,Sleuth,No
+219,1972,Michael Caine,Andrew Wyke,No
+220,1972,Peter O'Toole,The Ruling Class,No
+221,1972,Paul Winfield,Sounder,No
+222,1973,Jack Lemmon ,Save the Tiger,Yes
+223,1973,Marlon Brando,Last Tango in Paris,No
+224,1973,Jack Nicholson,The Last Detail,No
+225,1973,Al Pacino,Serpico,No
+226,1973,Robert Redford,The Sting,No
+227,1974,Art Carney ,Harry and Tonto,Yes
+228,1974,Albert Finney,Murder on the Orient Express,No
+229,1974,Dustin Hoffman,Lenny,No
+230,1974,Jack Nicholson,Chinatown,No
+231,1974,Al Pacino,The Godfather Part II,No
+232,1975,Jack Nicholson ,One Flew Over the Cuckoo's Nest,Yes
+233,1975,Walter Matthau,The Sunshine Boys,No
+234,1975,Al Pacino,Dog Day Afternoon,No
+235,1975,Maximilian Schell,The Man in the Glass Booth,No
+236,1975,James Whitmore,"Give 'em Hell, Harry!",No
+237,1976,Peter Finch ,Network,Yes
+238,1976,Robert De Niro,Taxi Driver,No
+239,1976,Giancarlo Giannini,Seven Beauties,No
+240,1976,William Holden,Network,No
+241,1976,Sylvester Stallone,Rocky,No
+242,1977,Richard Dreyfuss ,The Goodbye Girl,Yes
+243,1977,Woody Allen,Annie Hall,No
+244,1977,Richard Burton,Equus,No
+245,1977,Marcello Mastroianni,A Special Day,No
+246,1977,John Travolta,Saturday Night Fever,No
+247,1978,Jon Voight ,Coming Home,Yes
+248,1978,Warren Beatty,Heaven Can Wait,No
+249,1978,Gary Busey,The Buddy Holly Story,No
+250,1978,Robert De Niro,The Deer Hunter,No
+251,1978,Laurence Olivier,The Boys from Brazil,No
+252,1979,Dustin Hoffman ,Kramer vs. Kramer,Yes
+253,1979,Jack Lemmon,The China Syndrome,No
+254,1979,Al Pacino,...And Justice for All,No
+255,1979,Roy Scheider,All That Jazz,No
+256,1979,Peter Sellers,Being There,No
+257,1980,Robert De Niro ,Raging Bull,Yes
+258,1980,Robert Duvall,The Great Santini,No
+259,1980,John Hurt,The Elephant Man,No
+260,1980,Jack Lemmon,Tribute,No
+261,1980,Peter O'Toole,The Stunt Man,No
+262,1981,Henry Fonda ,On Golden Pond,Yes
+263,1981,Warren Beatty,Reds,No
+264,1981,Burt Lancaster,Atlantic City,No
+265,1981,Dudley Moore,Arthur,No
+266,1981,Paul Newman,Absence of Malice,No
+267,1982,Ben Kingsley ,Gandhi,Yes
+268,1982,Dustin Hoffman,Tootsie,No
+269,1982,Jack Lemmon,Missing,No
+270,1982,Paul Newman,The Verdict,No
+271,1982,Peter O'Toole,My Favorite Year,No
+272,1983,Robert Duvall ,Tender Mercies,Yes
+273,1983,Michael Caine,Educating Rita,No
+274,1983,Tom Conti,"Reuben, Reuben",No
+275,1983,Tom Courtenay,The Dresser,No
+276,1983,Tom Courtenay,Sir,No
+277,1984,F. Murray Abraham ,Amadeus,Yes
+278,1984,Jeff Bridges,Starman,No
+279,1984,Albert Finney,Under the Volcano,No
+280,1984,Tom Hulce,Amadeus,No
+281,1984,Sam Waterston,The Killing Fields,No
+282,1985,William Hurt ,Kiss of the Spider Woman,Yes
+283,1985,Harrison Ford,Witness,No
+284,1985,James Garner,Murphy's Romance,No
+285,1985,Jack Nicholson,Prizzi's Honor,No
+286,1985,Jon Voight,Runaway Train,No
+287,1986,Paul Newman ,The Color of Money,Yes
+288,1986,Dexter Gordon,Round Midnight,No
+289,1986,Bob Hoskins,Mona Lisa,No
+290,1986,William Hurt,Children of a Lesser God,No
+291,1986,James Woods,Salvador,No
+292,1987,Michael Douglas ,Wall Street,Yes
+293,1987,William Hurt,Broadcast News,No
+294,1987,Marcello Mastroianni,Dark Eyes,No
+295,1987,Jack Nicholson,Ironweed,No
+296,1987,Robin Williams,"Good Morning, Vietnam",No
+297,1988,Dustin Hoffman ,Rain Man,Yes
+298,1988,Gene Hackman,Mississippi Burning,No
+299,1988,Tom Hanks,Big,No
+300,1988,Edward James Olmos,Stand and Deliver,No
+301,1988,Max von Sydow,Pelle the Conqueror,No
+302,1989,Daniel Day-Lewis ,My Left Foot,Yes
+303,1989,Kenneth Branagh,Henry V,No
+304,1989,Tom Cruise,Born on the Fourth of July,No
+305,1989,Morgan Freeman,Driving Miss Daisy,No
+306,1989,Robin Williams,Dead Poets Society,No
+307,1990,Jeremy Irons ,Reversal of Fortune,Yes
+308,1990,Kevin Costner,Dances With Wolves,No
+309,1990,Robert De Niro,Awakenings,No
+310,1990,Gérard Depardieu,Cyrano de Bergerac,No
+311,1990,Richard Harris,The Field,No
+312,1991,Anthony Hopkins ,The Silence of the Lambs,Yes
+313,1991,Warren Beatty,Bugsy,No
+314,1991,Robert De Niro,Cape Fear,No
+315,1991,Nick Nolte,The Prince of Tides,No
+316,1991,Robin Williams,The Fisher King,No
+317,1992,Al Pacino ,Scent of a Woman,Yes
+318,1992,Robert Downey Jr.,Chaplin,No
+319,1992,Clint Eastwood,Unforgiven,No
+320,1992,Stephen Rea,The Crying Game,No
+321,1992,Denzel Washington,Malcolm X,No
+322,1993,Tom Hanks ,Philadelphia,Yes
+323,1993,Daniel Day-Lewis,In the Name of the Father,No
+324,1993,Laurence Fishburne,What's Love Got to Do with It,No
+325,1993,Anthony Hopkins,The Remains of the Day,No
+326,1993,Liam Neeson,Schindler's List,No
+327,1994,Tom Hanks ,Forrest Gump,Yes
+328,1994,Morgan Freeman,The Shawshank Redemption,No
+329,1994,Nigel Hawthorne,The Madness of King George,No
+330,1994,Paul Newman,Nobody's Fool,No
+331,1994,John Travolta,Pulp Fiction,No
+332,1995,Nicolas Cage ,Leaving Las Vegas,Yes
+333,1995,Richard Dreyfuss,Mr. Holland's Opus,No
+334,1995,Anthony Hopkins,Nixon,No
+335,1995,Sean Penn,Dead Man Walking,No
+336,1995,Massimo Troisi ,Il Postino: The Postman,No
+337,1996,Geoffrey Rush ,Shine,Yes
+338,1996,Tom Cruise,Jerry Maguire,No
+339,1996,Ralph Fiennes,The English Patient,No
+340,1996,Woody Harrelson,The People vs. Larry Flynt,No
+341,1996,Billy Bob Thornton,Sling Blade,No
+342,1997,Jack Nicholson ,As Good as It Gets,Yes
+343,1997,Matt Damon,Good Will Hunting,No
+344,1997,Robert Duvall,The Apostle,No
+345,1997,Peter Fonda,Ulee's Gold,No
+346,1997,Dustin Hoffman,Wag the Dog,No
+347,1998,Roberto Benigni ,Life Is Beautiful,Yes
+348,1998,Tom Hanks,Saving Private Ryan,No
+349,1998,Ian McKellen,Gods and Monsters,No
+350,1998,Nick Nolte,Affliction,No
+351,1998,Edward Norton,American History X,No
+352,1999,Kevin Spacey ,American Beauty,Yes
+353,1999,Russell Crowe,The Insider,No
+354,1999,Richard Farnsworth,The Straight Story,No
+355,1999,Sean Penn,Sweet and Lowdown,No
+356,1999,Denzel Washington,The Hurricane,No
+357,2000,Russell Crowe ,Gladiator,Yes
+358,2000,Javier Bardem,Before Night Falls,No
+359,2000,Tom Hanks,Cast Away,No
+360,2000,Ed Harris,Pollock,No
+361,2000,Geoffrey Rush,Quills,No
+362,2001,Denzel Washington ,Training Day,Yes
+363,2001,Russell Crowe,A Beautiful Mind,No
+364,2001,Sean Penn,I Am Sam,No
+365,2001,Will Smith,Ali,No
+366,2001,Tom Wilkinson,In the Bedroom,No
+367,2002,Adrien Brody ,The Pianist,Yes
+368,2002,Nicolas Cage,Adaptation.,No
+369,2002,Michael Caine,The Quiet American,No
+370,2002,Daniel Day-Lewis,Gangs of New York,No
+371,2002,Jack Nicholson,About Schmidt,No
+372,2003,Sean Penn ,Mystic River,Yes
+373,2003,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,No
+374,2003,Ben Kingsley,House of Sand and Fog,No
+375,2003,Jude Law,Cold Mountain,No
+376,2003,Bill Murray,Lost in Translation,No
+377,2004,Jamie Foxx ,Ray,Yes
+378,2004,Don Cheadle,Hotel Rwanda,No
+379,2004,Johnny Depp,Finding Neverland,No
+380,2004,Leonardo DiCaprio,The Aviator,No
+381,2004,Clint Eastwood,Million Dollar Baby,No
+382,2005,Philip Seymour Hoffman ,Capote,Yes
+383,2005,Terrence Howard,Hustle & Flow,No
+384,2005,Heath Ledger,Brokeback Mountain,No
+385,2005,Joaquin Phoenix,Walk the Line,No
+386,2005,David Strathairn,"Good Night, and Good Luck.",No
+387,2006,Forest Whitaker ,The Last King of Scotland,Yes
+388,2006,Leonardo DiCaprio,Blood Diamond,No
+389,2006,Ryan Gosling,Half Nelson,No
+390,2006,Peter O'Toole,Venus,No
+391,2006,Will Smith,The Pursuit of Happyness,No
+392,2007,Daniel Day-Lewis ,There Will Be Blood,Yes
+393,2007,George Clooney,Michael Clayton,No
+394,2007,Johnny Depp,Sweeney Todd: The Demon Barber of Fleet Street,No
+395,2007,Tommy Lee Jones,In the Valley of Elah,No
+396,2007,Viggo Mortensen,Eastern Promises,No
+397,2008,Sean Penn ,Milk,Yes
+398,2008,Richard Jenkins,The Visitor,No
+399,2008,Frank Langella,Frost/Nixon,No
+400,2008,Brad Pitt,The Curious Case of Benjamin Button,No
+401,2008,Mickey Rourke,The Wrestler,No
+402,2009,Jeff Bridges ,Crazy Heart,Yes
+403,2009,George Clooney,Up in the Air,No
+404,2009,Colin Firth,A Single Man,No
+405,2009,Morgan Freeman,Invictus,No
+406,2009,Jeremy Renner,The Hurt Locker,No
+407,2010,Colin Firth ,The King's Speech,Yes
+408,2010,Javier Bardem,Biutiful,No
+409,2010,Jeff Bridges,True Grit,No
+410,2010,Jesse Eisenberg,The Social Network,No
+411,2010,James Franco,127 Hours,No
+412,2011,Jean Dujardin ,The Artist,Yes
+413,2011,Demián Bichir,A Better Life,No
+414,2011,George Clooney,The Descendants,No
+415,2011,Gary Oldman,Tinker Tailor Soldier Spy,No
+416,2011,Brad Pitt,Moneyball,No
+417,2012,Daniel Day-Lewis ,Lincoln,Yes
+418,2012,Bradley Cooper,Silver Linings Playbook,No
+419,2012,Hugh Jackman,Les Misérables,No
+420,2012,Joaquin Phoenix,The Master,No
+421,2012,Denzel Washington,Flight,No
+422,2013,Matthew McConaughey ,Dallas Buyers Club,Yes
+423,2013,Christian Bale,American Hustle,No
+424,2013,Bruce Dern,Nebraska,No
+425,2013,Leonardo DiCaprio,The Wolf of Wall Street,No
+426,2013,Chiwetel Ejiofor,12 Years a Slave,No
+427,2014,Eddie Redmayne ,The Theory of Everything,Yes
+428,2014,Steve Carell,Foxcatcher,No
+429,2014,Bradley Cooper,American Sniper,No
+430,2014,Benedict Cumberbatch,The Imitation Game,No
+431,2014,Michael Keaton,Birdman,No
+432,2015,Leonardo DiCaprio ,The Revenant,Yes
+433,2015,Bryan Cranston,Trumbo,No
+434,2015,Matt Damon,The Martian,No
+435,2015,Michael Fassbender,Steve Jobs,No
+436,2015,Eddie Redmayne,The Danish Girl,No
+437,2016,Casey Affleck ,Manchester by the Sea,Yes
+438,2016,Andrew Garfield,Hacksaw Ridge,No
+439,2016,Ryan Gosling,La La Land,No
+440,2016,Viggo Mortensen,Captain Fantastic,No
+441,2016,Denzel Washington,Fences,No
+442,2017,Gary Oldman ,Darkest Hour,Yes
+443,2017,Timothée Chalamet,Call Me by Your Name,No
+444,2017,Daniel Day-Lewis,Phantom Thread,No
+445,2017,Daniel Kaluuya,Get Out,No
+446,2017,Denzel Washington,"Roman J. Israel, Esq.",No
+447,2018,Rami Malek ,Bohemian Rhapsody,Yes
+448,2018,Christian Bale,Vice,No
+449,2018,Bradley Cooper,A Star Is Born,No
+450,2018,Willem Dafoe,At Eternity's Gate,No
+451,2018,Viggo Mortensen,Green Book,No
+452,2019,Joaquin Phoenix ,Joker,Yes
+453,2019,Antonio Banderas,Pain and Glory,No
+454,2019,Leonardo DiCaprio,Once Upon a Time in Hollywood,No
+455,2019,Adam Driver,Marriage Story,No
+456,2019,Jonathan Pryce,The Two Popes,No
+457,2021,Anthony Hopkins ,The Father,Yes
+458,2021,Riz Ahmed,Sound of Metal,No
+459,2021,Chadwick Boseman ,Ma Rainey's Black Bottom,No
+460,2021,Gary Oldman,Mank,No
+461,2021,Steven Yeun,Minari,No
+462,2021,Will Smith ,King Richard,Yes
+463,2021,Javier Bardem,Being the Ricardos,No
+464,2021,Benedict Cumberbatch,The Power of the Dog,No
+465,2021,Andrew Garfield,"Tick, Tick... Boom!",No
+466,2021,Denzel Washington,The Tragedy of Macbeth,No
+467,2022,Brendan Fraser ,The Whale,Yes
+468,2022,Austin Butler,Elvis,No
+469,2022,Colin Farrell,The Banshees of Inisherin,No
+470,2022,Paul Mescal,Aftersun,No
+471,2022,Bill Nighy,Living,No
+472,2023,Cillian Murphy ,Oppenheimer,Yes
+473,2023,Bradley Cooper,Maestro,No
+474,2023,Colman Domingo,Rustin,No
+475,2023,Paul Giamatti,The Holdovers,No
+476,2023,Jeffrey Wright,American Fiction,No
+477,2024,Adrien Brody ,The Brutalist,Yes
+478,2024,Timothée Chalamet,A Complete Unknown,No
+479,2024,Colman Domingo,Sing Sing,No
+480,2024,Ralph Fiennes,Conclave,No
+481,2024,Sebastian Stan,The Apprentice,No
