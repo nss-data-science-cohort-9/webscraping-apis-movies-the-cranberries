@@ -1,0 +1,485 @@
+Year,Actor_Name,Film_Title,Winner,Nominated
+1928,Janet Gaynor,7th Heaven,Yes,Yes
+1928,Janet Gaynor,Street Angel,Yes,Yes
+1928,Janet Gaynor,Sunrise: A Song of Two Humans,Yes,Yes
+1928,Louise Dresser,A Ship Comes In,No,Yes
+1928,Gloria Swanson,Sadie Thompson,No,Yes
+1929,Mary Pickford,Coquette,Yes,Yes
+1929,Ruth Chatterton,Madame X,No,Yes
+1929,Betty Compson,The Barker,No,Yes
+1929,Jeanne Eagels,The Letter,No,Yes
+1929,Corinne Griffith,The Divine Lady,No,Yes
+1929,Bessie Love,The Broadway Melody,No,Yes
+1930,Norma Shearer,The Divorcee,Yes,Yes
+1930,Nancy Carroll,The Devil's Holiday,No,Yes
+1930,Ruth Chatterton,Sarah and Son,No,Yes
+1930,Greta Garbo,Anna Christie,No,Yes
+1930,Greta Garbo,Romance,No,Yes
+1930,Norma Shearer,Their Own Desire,No,Yes
+1930,Gloria Swanson,The Trespasser,No,Yes
+1931,Marie Dressler,Min and Bill,Yes,Yes
+1931,Marlene Dietrich,Morocco,No,Yes
+1931,Irene Dunne,Cimarron,No,Yes
+1931,Ann Harding,Holiday,No,Yes
+1931,Norma Shearer,A Free Soul,No,Yes
+1932,Helen Hayes,The Sin of Madelon Claudet,Yes,Yes
+1932,Marie Dressler,Emma,No,Yes
+1932,Lynn Fontanne,The Guardsman,No,Yes
+1933,Katharine Hepburn,Morning Glory,Yes,Yes
+1933,May Robson,Lady for a Day,No,Yes
+1933,Diana Wynyard,Cavalcade,No,Yes
+1934,Claudette Colbert,It Happened One Night,Yes,Yes
+1934,Bette Davis,Of Human Bondage,No,Yes
+1934,Grace Moore,One Night of Love,No,Yes
+1934,Norma Shearer,The Barretts of Wimpole Street,No,Yes
+1935,Bette Davis,Dangerous,Yes,Yes
+1935,Elisabeth Bergner,Escape Me Never,No,Yes
+1935,Claudette Colbert,Private Worlds,No,Yes
+1935,Katharine Hepburn,Alice Adams,No,Yes
+1935,Miriam Hopkins,Becky Sharp,No,Yes
+1935,Merle Oberon,The Dark Angel,No,Yes
+1936,Luise Rainer,The Great Ziegfeld,Yes,Yes
+1936,Irene Dunne,Theodora Goes Wild,No,Yes
+1936,Gladys George,Valiant Is the Word for Carrie,No,Yes
+1936,Carole Lombard,My Man Godfrey,No,Yes
+1936,Norma Shearer,Romeo and Juliet,No,Yes
+1937,Luise Rainer,The Good Earth,Yes,Yes
+1937,Irene Dunne,The Awful Truth,No,Yes
+1937,Greta Garbo,Camille,No,Yes
+1937,Janet Gaynor,A Star Is Born,No,Yes
+1937,Barbara Stanwyck,Stella Dallas,No,Yes
+1938,Bette Davis,Jezebel,Yes,Yes
+1938,Fay Bainter,White Banners,No,Yes
+1938,Wendy Hiller,Pygmalion,No,Yes
+1938,Norma Shearer,Marie Antoinette,No,Yes
+1938,Margaret Sullavan,Three Comrades,No,Yes
+1939,Vivien Leigh,Gone with the Wind,Yes,Yes
+1939,Bette Davis,Dark Victory,No,Yes
+1939,Irene Dunne,Love Affair,No,Yes
+1939,Greta Garbo,Ninotchka,No,Yes
+1939,Greer Garson,"Goodbye, Mr. Chips",No,Yes
+1940,Ginger Rogers,Kitty Foyle,Yes,Yes
+1940,Bette Davis,The Letter,No,Yes
+1940,Joan Fontaine,Rebecca,No,Yes
+1940,Katharine Hepburn,The Philadelphia Story,No,Yes
+1940,Martha Scott,Our Town,No,Yes
+1941,Joan Fontaine,Suspicion,Yes,Yes
+1941,Bette Davis,The Little Foxes,No,Yes
+1941,Olivia de Havilland,Hold Back the Dawn,No,Yes
+1941,Greer Garson,Blossoms in the Dust,No,Yes
+1941,Barbara Stanwyck,Ball of Fire,No,Yes
+1942,Greer Garson,Mrs. Miniver,Yes,Yes
+1942,Bette Davis,"Now, Voyager",No,Yes
+1942,Katharine Hepburn,Woman of the Year,No,Yes
+1942,Rosalind Russell,My Sister Eileen,No,Yes
+1942,Teresa Wright,The Pride of the Yankees,No,Yes
+1943,Jennifer Jones,The Song of Bernadette,Yes,Yes
+1943,Jean Arthur,The More the Merrier,No,Yes
+1943,Ingrid Bergman,For Whom the Bell Tolls,No,Yes
+1943,Joan Fontaine,The Constant Nymph,No,Yes
+1943,Greer Garson,Madame Curie,No,Yes
+1944,Ingrid Bergman,Gaslight,Yes,Yes
+1944,Claudette Colbert,Since You Went Away,No,Yes
+1944,Bette Davis,Mr. Skeffington,No,Yes
+1944,Greer Garson,Mrs. Parkington,No,Yes
+1944,Barbara Stanwyck,Double Indemnity,No,Yes
+1945,Joan Crawford,Mildred Pierce,Yes,Yes
+1945,Ingrid Bergman,The Bells of St. Mary's,No,Yes
+1945,Greer Garson,The Valley of Decision,No,Yes
+1945,Jennifer Jones,Love Letters,No,Yes
+1945,Gene Tierney,Leave Her to Heaven,No,Yes
+1946,Olivia de Havilland,To Each His Own,Yes,Yes
+1946,Celia Johnson,Brief Encounter,No,Yes
+1946,Jennifer Jones,Duel in the Sun,No,Yes
+1946,Rosalind Russell,Sister Kenny,No,Yes
+1946,Jane Wyman,The Yearling,No,Yes
+1947,Loretta Young,The Farmer's Daughter,Yes,Yes
+1947,Joan Crawford,Possessed,No,Yes
+1947,Susan Hayward,"Smash-Up, the Story of a Woman",No,Yes
+1947,Dorothy McGuire,Gentleman's Agreement,No,Yes
+1947,Rosalind Russell,Mourning Becomes Electra,No,Yes
+1948,Jane Wyman,Johnny Belinda,Yes,Yes
+1948,Ingrid Bergman,Joan of Arc,No,Yes
+1948,Olivia de Havilland,The Snake Pit,No,Yes
+1948,Irene Dunne,I Remember Mama,No,Yes
+1948,Barbara Stanwyck,"Sorry, Wrong Number",No,Yes
+1949,Olivia de Havilland,The Heiress,Yes,Yes
+1949,Jeanne Crain,Pinky,No,Yes
+1949,Susan Hayward,My Foolish Heart,No,Yes
+1949,Deborah Kerr,"Edward, My Son",No,Yes
+1949,Loretta Young,Come to the Stable,No,Yes
+1950,Judy Holliday,Born Yesterday,Yes,Yes
+1950,Anne Baxter,All About Eve,No,Yes
+1950,Anne Baxter,Margo Channing,No,Yes
+1950,Eleanor Parker,Caged,No,Yes
+1950,Gloria Swanson,Sunset Boulevard,No,Yes
+1951,Vivien Leigh,A Streetcar Named Desire,Yes,Yes
+1951,Katharine Hepburn,The African Queen,No,Yes
+1951,Eleanor Parker,Detective Story,No,Yes
+1951,Shelley Winters,A Place in the Sun,No,Yes
+1951,Jane Wyman,The Blue Veil,No,Yes
+1952,Shirley Booth,"Come Back, Little Sheba",Yes,Yes
+1952,Joan Crawford,Sudden Fear,No,Yes
+1952,Bette Davis,The Star,No,Yes
+1952,Julie Harris,The Member of the Wedding,No,Yes
+1952,Susan Hayward,With a Song in My Heart,No,Yes
+1953,Audrey Hepburn,Roman Holiday,Yes,Yes
+1953,Leslie Caron,Lili,No,Yes
+1953,Ava Gardner,Mogambo,No,Yes
+1953,Deborah Kerr,From Here to Eternity,No,Yes
+1953,Maggie McNamara,The Moon Is Blue,No,Yes
+1954,Grace Kelly,The Country Girl,Yes,Yes
+1954,Dorothy Dandridge,Carmen Jones,No,Yes
+1954,Judy Garland,A Star Is Born,No,Yes
+1954,Audrey Hepburn,Sabrina,No,Yes
+1954,Jane Wyman,Magnificent Obsession,No,Yes
+1955,Anna Magnani,The Rose Tattoo,Yes,Yes
+1955,Susan Hayward,I'll Cry Tomorrow,No,Yes
+1955,Katharine Hepburn,Summertime,No,Yes
+1955,Jennifer Jones,Love is a Many-Splendored Thing,No,Yes
+1955,Eleanor Parker,Interrupted Melody,No,Yes
+1956,Ingrid Bergman,Anastasia,Yes,Yes
+1956,Carroll Baker,Baby Doll,No,Yes
+1956,Katharine Hepburn,The Rainmaker,No,Yes
+1956,Nancy Kelly,The Bad Seed,No,Yes
+1956,Deborah Kerr,The King and I,No,Yes
+1957,Joanne Woodward,The Three Faces of Eve,Yes,Yes
+1957,Deborah Kerr,"Heaven Knows, Mr. Allison",No,Yes
+1957,Anna Magnani,Wild Is the Wind,No,Yes
+1957,Elizabeth Taylor,Raintree County,No,Yes
+1957,Lana Turner,Peyton Place,No,Yes
+1958,Susan Hayward,I Want to Live!,Yes,Yes
+1958,Deborah Kerr,Separate Tables,No,Yes
+1958,Shirley MacLaine,Some Came Running,No,Yes
+1958,Rosalind Russell,Auntie Mame,No,Yes
+1958,Elizabeth Taylor,Cat on a Hot Tin Roof,No,Yes
+1959,Simone Signoret,Room at the Top,Yes,Yes
+1959,Doris Day,Pillow Talk,No,Yes
+1959,Audrey Hepburn,The Nun's Story,No,Yes
+1959,Katharine Hepburn,"Suddenly, Last Summer",No,Yes
+1959,Katharine Hepburn,Catherine Holly,No,Yes
+1960,Elizabeth Taylor,BUtterfield 8,Yes,Yes
+1960,Greer Garson,Sunrise at Campobello,No,Yes
+1960,Deborah Kerr,The Sundowners,No,Yes
+1960,Shirley MacLaine,The Apartment,No,Yes
+1960,Melina Mercouri,Never on Sunday,No,Yes
+1961,Sophia Loren,Two Women[39],Yes,Yes
+1961,Audrey Hepburn,Breakfast at Tiffany's,No,Yes
+1961,Piper Laurie,The Hustler,No,Yes
+1961,Geraldine Page,Summer and Smoke,No,Yes
+1961,Natalie Wood,Splendor in the Grass,No,Yes
+1962,Anne Bancroft,The Miracle Worker,Yes,Yes
+1962,Bette Davis,What Ever Happened to Baby Jane?,No,Yes
+1962,Katharine Hepburn,Long Day's Journey into Night,No,Yes
+1962,Geraldine Page,Sweet Bird of Youth,No,Yes
+1962,Lee Remick,Days of Wine and Roses,No,Yes
+1963,Patricia Neal,Hud,Yes,Yes
+1963,Leslie Caron,The L-Shaped Room,No,Yes
+1963,Shirley MacLaine,Irma la Douce,No,Yes
+1963,Rachel Roberts,This Sporting Life,No,Yes
+1963,Natalie Wood,Love with the Proper Stranger,No,Yes
+1964,Julie Andrews,Mary Poppins,Yes,Yes
+1964,Anne Bancroft,The Pumpkin Eater,No,Yes
+1964,Sophia Loren,Marriage Italian Style,No,Yes
+1964,Debbie Reynolds,The Unsinkable Molly Brown,No,Yes
+1964,Kim Stanley,Séance on a Wet Afternoon,No,Yes
+1965,Julie Christie,Darling,Yes,Yes
+1965,Julie Andrews,The Sound of Music,No,Yes
+1965,Samantha Eggar,The Collector,No,Yes
+1965,Elizabeth Hartman,A Patch of Blue,No,Yes
+1965,Simone Signoret,Ship of Fools,No,Yes
+1966,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,Yes,Yes
+1966,Anouk Aimée,A Man and a Woman,No,Yes
+1966,Ida Kamińska,The Shop on Main Street,No,Yes
+1966,Lynn Redgrave,Georgy Girl,No,Yes
+1966,Vanessa Redgrave,Morgan!,No,Yes
+1967,Katharine Hepburn,Guess Who's Coming to Dinner,Yes,Yes
+1967,Anne Bancroft,The Graduate,No,Yes
+1967,Faye Dunaway,Bonnie and Clyde,No,Yes
+1967,Edith Evans,The Whisperers,No,Yes
+1967,Audrey Hepburn,Wait Until Dark,No,Yes
+1968,Katharine Hepburn,The Lion in Winter,Yes,Yes
+1968,Barbra Streisand,Funny Girl,Yes,Yes
+1968,Patricia Neal,The Subject Was Roses,No,Yes
+1968,Vanessa Redgrave,Isadora,No,Yes
+1968,Joanne Woodward,"Rachel, Rachel",No,Yes
+1969,Maggie Smith,The Prime of Miss Jean Brodie,Yes,Yes
+1969,Geneviève Bujold,Anne of the Thousand Days,No,Yes
+1969,Jane Fonda,"They Shoot Horses, Don't They?",No,Yes
+1969,Liza Minnelli,The Sterile Cuckoo,No,Yes
+1969,Jean Simmons,The Happy Ending,No,Yes
+1970,Glenda Jackson,Women in Love,Yes,Yes
+1970,Jane Alexander,The Great White Hope,No,Yes
+1970,Ali MacGraw,Love Story,No,Yes
+1970,Sarah Miles,Ryan's Daughter,No,Yes
+1970,Carrie Snodgress,Diary of a Mad Housewife,No,Yes
+1971,Jane Fonda,Klute,Yes,Yes
+1971,Julie Christie,McCabe & Mrs. Miller,No,Yes
+1971,Glenda Jackson,Sunday Bloody Sunday,No,Yes
+1971,Vanessa Redgrave,"Mary, Queen of Scots",No,Yes
+1971,Janet Suzman,Nicholas and Alexandra,No,Yes
+1972,Liza Minnelli,Cabaret,Yes,Yes
+1972,Diana Ross,Lady Sings the Blues,No,Yes
+1972,Maggie Smith,Travels with My Aunt,No,Yes
+1972,Cicely Tyson,Sounder,No,Yes
+1972,Liv Ullmann,The Emigrants,No,Yes
+1973,Glenda Jackson,A Touch of Class,Yes,Yes
+1973,Ellen Burstyn,The Exorcist,No,Yes
+1973,Marsha Mason,Cinderella Liberty,No,Yes
+1973,Barbra Streisand,The Way We Were,No,Yes
+1973,Joanne Woodward,"Summer Wishes, Winter Dreams",No,Yes
+1974,Ellen Burstyn,Alice Doesn't Live Here Anymore,Yes,Yes
+1974,Diahann Carroll,Claudine,No,Yes
+1974,Faye Dunaway,Chinatown,No,Yes
+1974,Valerie Perrine,Lenny,No,Yes
+1974,Gena Rowlands,A Woman Under the Influence,No,Yes
+1975,Louise Fletcher,One Flew Over the Cuckoo's Nest,Yes,Yes
+1975,Isabelle Adjani,The Story of Adele H.,No,Yes
+1975,Ann-Margret,Tommy,No,Yes
+1975,Glenda Jackson,Hedda,No,Yes
+1975,Carol Kane,Hester Street,No,Yes
+1976,Faye Dunaway,Network,Yes,Yes
+1976,Marie-Christine Barrault,Cousin Cousine,No,Yes
+1976,Talia Shire,Rocky,No,Yes
+1976,Sissy Spacek,Carrie,No,Yes
+1976,Liv Ullmann,Face to Face,No,Yes
+1977,Diane Keaton,Annie Hall,Yes,Yes
+1977,Anne Bancroft,The Turning Point,No,Yes
+1977,Jane Fonda,Julia,No,Yes
+1977,Shirley MacLaine,The Turning Point,No,Yes
+1977,Marsha Mason,The Goodbye Girl,No,Yes
+1978,Jane Fonda,Coming Home,Yes,Yes
+1978,Ingrid Bergman,Autumn Sonata,No,Yes
+1978,Ellen Burstyn,"Same Time, Next Year",No,Yes
+1978,Jill Clayburgh,An Unmarried Woman,No,Yes
+1978,Geraldine Page,Interiors,No,Yes
+1979,Sally Field,Norma Rae,Yes,Yes
+1979,Jill Clayburgh,Starting Over,No,Yes
+1979,Jane Fonda,The China Syndrome,No,Yes
+1979,Marsha Mason,Chapter Two,No,Yes
+1979,Bette Midler,The Rose,No,Yes
+1980,Sissy Spacek,Coal Miner's Daughter,Yes,Yes
+1980,Ellen Burstyn,Resurrection,No,Yes
+1980,Goldie Hawn,Private Benjamin,No,Yes
+1980,Mary Tyler Moore,Ordinary People,No,Yes
+1980,Gena Rowlands,Gloria,No,Yes
+1981,Katharine Hepburn,On Golden Pond,Yes,Yes
+1981,Diane Keaton,Reds,No,Yes
+1981,Marsha Mason,Only When I Laugh,No,Yes
+1981,Susan Sarandon,Atlantic City,No,Yes
+1981,Meryl Streep,The French Lieutenant's Woman,No,Yes
+1982,Meryl Streep,Sophie's Choice,Yes,Yes
+1982,Julie Andrews,Victor/Victoria,No,Yes
+1982,Jessica Lange,Frances,No,Yes
+1982,Sissy Spacek,Missing,No,Yes
+1982,Debra Winger,An Officer and a Gentleman,No,Yes
+1983,Shirley MacLaine,Terms of Endearment,Yes,Yes
+1983,Jane Alexander,Testament,No,Yes
+1983,Meryl Streep,Silkwood,No,Yes
+1983,Julie Walters,Educating Rita,No,Yes
+1983,Debra Winger,Terms of Endearment,No,Yes
+1984,Sally Field,Places in the Heart,Yes,Yes
+1984,Judy Davis,A Passage to India,No,Yes
+1984,Jessica Lange,Country,No,Yes
+1984,Vanessa Redgrave,The Bostonians,No,Yes
+1984,Sissy Spacek,The River,No,Yes
+1985,Geraldine Page,The Trip to Bountiful,Yes,Yes
+1985,Anne Bancroft,Agnes of God,No,Yes
+1985,Whoopi Goldberg,The Color Purple,No,Yes
+1985,Jessica Lange,Sweet Dreams,No,Yes
+1985,Meryl Streep,Out of Africa,No,Yes
+1986,Marlee Matlin,Children of a Lesser God,Yes,Yes
+1986,Jane Fonda,The Morning After,No,Yes
+1986,Sissy Spacek,Crimes of the Heart,No,Yes
+1986,Kathleen Turner,Peggy Sue Got Married,No,Yes
+1986,Sigourney Weaver,Aliens,No,Yes
+1987,Cher,Moonstruck,Yes,Yes
+1987,Glenn Close,Fatal Attraction,No,Yes
+1987,Holly Hunter,Broadcast News,No,Yes
+1987,Sally Kirkland,Anna,No,Yes
+1987,Meryl Streep,Ironweed,No,Yes
+1988,Jodie Foster,The Accused,Yes,Yes
+1988,Glenn Close,Dangerous Liaisons,No,Yes
+1988,Melanie Griffith,Working Girl,No,Yes
+1988,Meryl Streep,A Cry in the Dark,No,Yes
+1988,Sigourney Weaver,Gorillas in the Mist,No,Yes
+1989,Jessica Tandy,Driving Miss Daisy,Yes,Yes
+1989,Isabelle Adjani,Camille Claudel,No,Yes
+1989,Pauline Collins,Shirley Valentine,No,Yes
+1989,Jessica Lange,Music Box,No,Yes
+1989,Michelle Pfeiffer,The Fabulous Baker Boys,No,Yes
+1990,Kathy Bates,Misery,Yes,Yes
+1990,Anjelica Huston,The Grifters,No,Yes
+1990,Julia Roberts,Pretty Woman,No,Yes
+1990,Meryl Streep,Postcards from the Edge,No,Yes
+1990,Joanne Woodward,Mr. & Mrs. Bridge,No,Yes
+1991,Jodie Foster,The Silence of the Lambs,Yes,Yes
+1991,Geena Davis,Thelma & Louise,No,Yes
+1991,Laura Dern,Rambling Rose,No,Yes
+1991,Bette Midler,For the Boys,No,Yes
+1991,Susan Sarandon,Thelma & Louise,No,Yes
+1992,Emma Thompson,Howards End,Yes,Yes
+1992,Catherine Deneuve,Indochine,No,Yes
+1992,Mary McDonnell,Passion Fish,No,Yes
+1992,Michelle Pfeiffer,Love Field,No,Yes
+1992,Susan Sarandon,Lorenzo's Oil,No,Yes
+1993,Holly Hunter,The Piano,Yes,Yes
+1993,Angela Bassett,What's Love Got to Do with It,No,Yes
+1993,Stockard Channing,Six Degrees of Separation,No,Yes
+1993,Emma Thompson,The Remains of the Day,No,Yes
+1993,Debra Winger,Shadowlands,No,Yes
+1994,Jessica Lange,Blue Sky,Yes,Yes
+1994,Jodie Foster,Nell,No,Yes
+1994,Miranda Richardson,Tom & Viv,No,Yes
+1994,Winona Ryder,Little Women,No,Yes
+1994,Susan Sarandon,The Client,No,Yes
+1995,Susan Sarandon,Dead Man Walking,Yes,Yes
+1995,Elisabeth Shue,Leaving Las Vegas,No,Yes
+1995,Sharon Stone,Casino,No,Yes
+1995,Meryl Streep,The Bridges of Madison County,No,Yes
+1995,Emma Thompson,Sense and Sensibility,No,Yes
+1996,Frances McDormand,Fargo,Yes,Yes
+1996,Brenda Blethyn,Secrets & Lies,No,Yes
+1996,Diane Keaton,Marvin's Room,No,Yes
+1996,Kristin Scott Thomas,The English Patient,No,Yes
+1996,Emily Watson,Breaking the Waves,No,Yes
+1997,Helen Hunt,As Good as It Gets,Yes,Yes
+1997,Helena Bonham Carter,The Wings of the Dove,No,Yes
+1997,Julie Christie,Afterglow,No,Yes
+1997,Judi Dench,Mrs Brown,No,Yes
+1997,Kate Winslet,Titanic,No,Yes
+1998,Gwyneth Paltrow,Shakespeare in Love,Yes,Yes
+1998,Cate Blanchett,Elizabeth,No,Yes
+1998,Fernanda Montenegro,Central Station,No,Yes
+1998,Meryl Streep,One True Thing,No,Yes
+1998,Emily Watson,Hilary and Jackie,No,Yes
+1999,Hilary Swank,Boys Don't Cry,Yes,Yes
+1999,Annette Bening,American Beauty,No,Yes
+1999,Janet McTeer,Tumbleweeds,No,Yes
+1999,Julianne Moore,The End of the Affair,No,Yes
+1999,Meryl Streep,Music of the Heart,No,Yes
+2000,Julia Roberts,Erin Brockovich,Yes,Yes
+2000,Joan Allen,The Contender,No,Yes
+2000,Juliette Binoche,Chocolat,No,Yes
+2000,Ellen Burstyn,Requiem for a Dream,No,Yes
+2000,Laura Linney,You Can Count on Me,No,Yes
+2001,Halle Berry,Monster's Ball,Yes,Yes
+2001,Judi Dench,Iris,No,Yes
+2001,Nicole Kidman,Moulin Rouge!,No,Yes
+2001,Sissy Spacek,In the Bedroom,No,Yes
+2001,Renée Zellweger,Bridget Jones's Diary,No,Yes
+2002,Nicole Kidman,The Hours,Yes,Yes
+2002,Salma Hayek,Frida,No,Yes
+2002,Diane Lane,Unfaithful,No,Yes
+2002,Julianne Moore,Far from Heaven,No,Yes
+2002,Renée Zellweger,Chicago,No,Yes
+2003,Charlize Theron,Monster,Yes,Yes
+2003,Keisha Castle-Hughes,Whale Rider,No,Yes
+2003,Diane Keaton,Something's Gotta Give,No,Yes
+2003,Samantha Morton,In America,No,Yes
+2003,Naomi Watts,21 Grams,No,Yes
+2004,Hilary Swank,Million Dollar Baby,Yes,Yes
+2004,Annette Bening,Being Julia,No,Yes
+2004,Catalina Sandino Moreno,Maria Full of Grace,No,Yes
+2004,Imelda Staunton,Vera Drake,No,Yes
+2004,Kate Winslet,Eternal Sunshine of the Spotless Mind,No,Yes
+2005,Reese Witherspoon,Walk the Line,Yes,Yes
+2005,Judi Dench,Mrs Henderson Presents,No,Yes
+2005,Felicity Huffman,Transamerica,No,Yes
+2005,Keira Knightley,Pride & Prejudice,No,Yes
+2005,Charlize Theron,North Country,No,Yes
+2006,Helen Mirren,The Queen,Yes,Yes
+2006,Penélope Cruz,Volver,No,Yes
+2006,Judi Dench,Notes on a Scandal,No,Yes
+2006,Meryl Streep,The Devil Wears Prada,No,Yes
+2006,Kate Winslet,Little Children,No,Yes
+2007,Marion Cotillard,La Vie en Rose,Yes,Yes
+2007,Cate Blanchett,Elizabeth: The Golden Age,No,Yes
+2007,Julie Christie,Away from Her,No,Yes
+2007,Laura Linney,The Savages,No,Yes
+2007,Elliot Page,Juno,No,Yes
+2008,Kate Winslet,The Reader,Yes,Yes
+2008,Anne Hathaway,Rachel Getting Married,No,Yes
+2008,Angelina Jolie,Changeling,No,Yes
+2008,Melissa Leo,Frozen River,No,Yes
+2008,Meryl Streep,Doubt,No,Yes
+2009,Sandra Bullock,The Blind Side,Yes,Yes
+2009,Helen Mirren,The Last Station,No,Yes
+2009,Carey Mulligan,An Education,No,Yes
+2009,Gabourey Sidibe,Precious,No,Yes
+2009,Meryl Streep,Julie & Julia,No,Yes
+2010,Natalie Portman,Black Swan,Yes,Yes
+2010,Annette Bening,The Kids Are All Right,No,Yes
+2010,Nicole Kidman,Rabbit Hole,No,Yes
+2010,Jennifer Lawrence,Winter's Bone,No,Yes
+2010,Michelle Williams,Blue Valentine,No,Yes
+2011,Meryl Streep,The Iron Lady,Yes,Yes
+2011,Glenn Close,Albert Nobbs,No,Yes
+2011,Viola Davis,The Help,No,Yes
+2011,Rooney Mara,The Girl with the Dragon Tattoo,No,Yes
+2011,Michelle Williams,My Week with Marilyn,No,Yes
+2012,Jennifer Lawrence,Silver Linings Playbook,Yes,Yes
+2012,Jessica Chastain,Zero Dark Thirty,No,Yes
+2012,Emmanuelle Riva,Amour,No,Yes
+2012,Quvenzhané Wallis,Beasts of the Southern Wild,No,Yes
+2012,Naomi Watts,The Impossible,No,Yes
+2013,Cate Blanchett,Blue Jasmine,Yes,Yes
+2013,Amy Adams,American Hustle,No,Yes
+2013,Sandra Bullock,Gravity,No,Yes
+2013,Judi Dench,Philomena,No,Yes
+2013,Meryl Streep,August: Osage County,No,Yes
+2014,Julianne Moore,Still Alice,Yes,Yes
+2014,Marion Cotillard,"Two Days, One Night",No,Yes
+2014,Felicity Jones,The Theory of Everything,No,Yes
+2014,Rosamund Pike,Gone Girl,No,Yes
+2014,Reese Witherspoon,Wild,No,Yes
+2015,Brie Larson,Room,Yes,Yes
+2015,Cate Blanchett,Carol,No,Yes
+2015,Jennifer Lawrence,Joy,No,Yes
+2015,Charlotte Rampling,45 Years,No,Yes
+2015,Saoirse Ronan,Brooklyn,No,Yes
+2016,Emma Stone,La La Land,Yes,Yes
+2016,Isabelle Huppert,Elle,No,Yes
+2016,Ruth Negga,Loving,No,Yes
+2016,Natalie Portman,Jackie,No,Yes
+2016,Meryl Streep,Florence Foster Jenkins,No,Yes
+2017,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",Yes,Yes
+2017,Sally Hawkins,The Shape of Water,No,Yes
+2017,Margot Robbie,"I, Tonya",No,Yes
+2017,Saoirse Ronan,Lady Bird,No,Yes
+2017,Meryl Streep,The Post,No,Yes
+2018,Olivia Colman,The Favourite,Yes,Yes
+2018,Yalitza Aparicio,Roma,No,Yes
+2018,Glenn Close,The Wife,No,Yes
+2018,Lady Gaga,A Star Is Born,No,Yes
+2018,Melissa McCarthy,Can You Ever Forgive Me?,No,Yes
+2019,Renée Zellweger,Judy,Yes,Yes
+2019,Cynthia Erivo,Harriet,No,Yes
+2019,Scarlett Johansson,Marriage Story,No,Yes
+2019,Saoirse Ronan,Little Women,No,Yes
+2019,Charlize Theron,Bombshell,No,Yes
+2021,Frances McDormand,Nomadland,Yes,Yes
+2021,Viola Davis,Ma Rainey's Black Bottom,No,Yes
+2021,Andra Day,The United States vs. Billie Holiday,No,Yes
+2021,Vanessa Kirby,Pieces of a Woman,No,Yes
+2021,Carey Mulligan,Promising Young Woman,No,Yes
+2021,Jessica Chastain,The Eyes of Tammy Faye,Yes,Yes
+2021,Olivia Colman,The Lost Daughter,No,Yes
+2021,Penélope Cruz,Parallel Mothers,No,Yes
+2021,Nicole Kidman,Being the Ricardos,No,Yes
+2021,Kristen Stewart,Spencer,No,Yes
+2022,Michelle Yeoh,Everything Everywhere All at Once,Yes,Yes
+2022,Cate Blanchett,Tár,No,Yes
+2022,Ana de Armas,Blonde,No,Yes
+2022,Andrea Riseborough,To Leslie,No,Yes
+2022,Michelle Williams,The Fabelmans,No,Yes
+2023,Emma Stone,Poor Things,Yes,Yes
+2023,Annette Bening,Nyad,No,Yes
+2023,Lily Gladstone,Killers of the Flower Moon,No,Yes
+2023,Sandra Hüller,Anatomy of a Fall,No,Yes
+2023,Carey Mulligan,Maestro,No,Yes
+2024,Mikey Madison,Anora,Yes,Yes
+2024,Cynthia Erivo,Wicked,No,Yes
+2024,Karla Sofía Gascón,Emilia Pérez,No,Yes
+2024,Demi Moore,The Substance,No,Yes
+2024,Fernanda Torres,I'm Still Here,No,Yes
